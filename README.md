@@ -19,6 +19,6 @@ Features Read File: Displays the content of a specified file to the console. Wri
 
 The user is prompted to enter the name of the file they want to interact with, including its extension (e.g., sample.txt). The user is then prompted to select an operation:
 
-Read File: The program reads the file’s contents and displays it in the console.
-Write File: The user enters content that will be written to the file. If the file does not exist, it will be created.
-Modify File: The user enters content to append to the file. The new content is added on a new line at the end of the file. Error messages are displayed if something goes wrong during the operation (e.g., file not found, IO exception).
+1.Read File: The program reads the file’s contents and displays it in the console.
+2.Write File: The user enters content that will be written to the file. If the file does not exist, it will be created.
+3.Modify File: The user enters content to append to the file. The new content is added on a new line at the end of the file. Error messages are displayed if something goes wrong during the operation (e.g., file not found, IO exception).
