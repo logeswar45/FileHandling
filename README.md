@@ -24,3 +24,5 @@ The user is prompted to enter the name of the file they want to interact with, i
 2.Write File: The user enters content that will be written to the file. If the file does not exist, it will be created.
 
 3.Modify File: The user enters content to append to the file. The new content is added on a new line at the end of the file. Error messages are displayed if something goes wrong during the operation (e.g., file not found, IO exception).
+
+**OUTPUT**:![Image](https://github.com/user-attachments/assets/d673d57d-2d43-470a-b501-6d88b8379b60)
